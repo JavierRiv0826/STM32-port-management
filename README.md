@@ -72,6 +72,10 @@ Project → Build Project
   
 ---
 
+## 🧪 Proteus Simulation
+A full Proteus simulation is included in the `/Proteus` folder.  
+Open `test1.pdsprj` in Proteus 8.6 or newer to test the STM32F103C6 port management system.
+
 
 ## 👤 Author
 **Javier Rivera**  
